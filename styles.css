@@ -36,12 +36,12 @@ button, select {
     padding: 4px 16px;
     color: #fff;
 }
-.edit {
-    background: #eca712e5;
+.add {
+    background: #27b40be5;
 }
 .delete {
     background: #c91836c0;
 }
-.add, select {
-    background: #14a733e7;
+.edit, select {
+    background: #e68b16e7;
 }
